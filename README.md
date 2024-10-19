@@ -2,6 +2,6 @@ Oi! Sou Guilherme Bonomo, atualmente cursando Análise e Desenvolvimento de Sist
 
 Tenho conhecimento em diversas linguagens, como Java, C++ e JavaScript, além de experiência com bancos de dados (MySQL/MariaDB) e redes de computadores. Gosto de trabalhar com segurança da informação, fazendo testes de vulnerabilidade usando OWASP ZAP e SQL Map.
 
-Além de tudo isso, também me interesso por sistemas embarcados, como Arduino, algo que comecei a aprender no curso técnico de eletrônica no CEFET. Sou um grande entusiasta de metodologias ágeis (como Scrum) e procuro sempre melhorar minhas habilidades com ferramentas como Docker e Git.
+Além de tudo isso, também me interesso por sistemas embarcados, como Arduino, algo que comecei a aprender no curso técnico de eletrônica no CEFET. Tive experiência com metodologias ágeis (como Scrum) durante o projeto integrador no SENAC e procuro sempre melhorar minhas habilidades com ferramentas como Docker e Git.
 
 Veja meus projetos e contribuições, e sinta-se livre para comentar ou colaborar.
