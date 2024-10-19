@@ -4,7 +4,8 @@ Oi! Sou Guilherme Bonomo, atualmente cursando Análise e Desenvolvimento de Sist
             <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" style="width: 50px;"/>
             <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" style="width: 50px;"/>
             <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" style="width: 50px;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="width: 50px;"/>
+            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="width: 50px;"/>
+            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="width: 50px;"/>
 </div>          
           
 Tenho conhecimento em diversas linguagens, como Java, C++ e JavaScript, além de experiência com bancos de dados (MySQL/MariaDB) e redes de computadores. Gosto de trabalhar com segurança da informação, fazendo testes de vulnerabilidade usando OWASP ZAP e SQL Map.
@@ -14,8 +15,8 @@ Tenho conhecimento em diversas linguagens, como Java, C++ e JavaScript, além de
             <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="width: 50px;"/>
             <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" style="width: 50px;"/>
             <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" style="width: 50px;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" style="width: 50px;"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" style="width: 50px;"/>
+            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" style="width: 50px;"/>
+            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" style="width: 50px;"/>
             <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="width: 50px;"/>
 </div>
           
