@@ -28,11 +28,15 @@ Além de tudo isso, também me interesso por sistemas embarcados, como Arduino, 
             <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" style="width: 50px;"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" style="width: 50px;"/>
  </div>           
-
+ 
+## Estatísticas do GitHub
 <div>
 <a href="https://github.com/GuilhermeLBonomo">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeLBonomo&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeLBonomo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+## 🏆 Troféus do GitHub
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=guilhermelbonomo&theme=darkhub&no-frame=true&margin-w=15)
 Veja meus projetos e contribuições, e sinta-se livre para comentar ou colaborar.
